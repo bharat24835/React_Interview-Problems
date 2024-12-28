@@ -1,0 +1,20 @@
+.div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.square{
+  height: 70px;
+  width: 70px;
+  background-color: whitesmoke;
+  /*margin: 10px 10px;
+  */border-radius: 10px;  
+}
+.col{
+  margin: 5px 0;
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

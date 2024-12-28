@@ -1,0 +1,7 @@
+.square{
+    height: 70px;
+    width: 70px;
+    background-color: whitesmoke;
+    /*margin: 10px 10px;
+    */border-radius: 10px;  
+  }

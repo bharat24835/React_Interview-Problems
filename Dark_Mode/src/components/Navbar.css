@@ -1,0 +1,24 @@
+.app{
+    display: flex;
+    justify-content: space-between;
+    font-family: monument;
+    text-decoration: none;
+    font-size: 32px;
+
+}
+
+
+
+.btn{
+    width: 10%;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: gilroy;
+    color: red;
+    background-color: #000;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
